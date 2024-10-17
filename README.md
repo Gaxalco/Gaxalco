@@ -12,6 +12,31 @@ Current Goals :<br>- Making my own programming language<br>- Making a 3D rendere
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaxalco&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaxalco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Programming Goals
+
+## 1. Making my own programming language
+### Language : C
+
+## 2. Making a 3D renderer (OpenGL)
+### Language : C
+
+## 3. Making a physics engine
+### Language : C
+
+## 4. Making a checkers game using SDL2
+### Language : C
+### Resources
+- **Site :** [Lazy Foo](https://lazyfoo.net/tutorials/SDL/index.php#Hello%20SDL)
+
+## 5. Making a simple space exploration game (Inspired by Sebastian Lague)
+### Language : Unity
+### Resources
+- **Videos :** [Sebastian Lague](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cSy8fQu3cFycsOzNjF31M1)
+
+## 6. Making a simple RPG
+### Language : C / C++ (idk yet)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Gaxalco&icon=0&color=8)](https://visitcount.itsvg.in)
 
